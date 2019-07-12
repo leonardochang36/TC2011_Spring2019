@@ -1,0 +1,8 @@
+Cython
+Pillow
+h5py
+numpy
+scipy>=1.0.0
+six
+torch>=0.4.1
+torchvision>=0.2.1
